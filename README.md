@@ -8,8 +8,8 @@ An infrastructure-as-Code project where I deploy a highly availabl;e web server 
 
 #### Outputs
 
-- Load Balancer DNS: [http://udagr-webap-1weje56uvpllr-691460758.us-east-1.elb.amazonaws.com/](http://udagr-webap-1weje56uvpllr-691460758.us-east-1.elb.amazonaws.com/)
-- Jump Box Server: [http://ec2-54-82-99-156.compute-1.amazonaws.com/](http://ec2-54-82-99-156.compute-1.amazonaws.com/)
+- Load Balancer DNS: [http://udagr-webap-1bm1gglt88f2m-1360665967.us-east-1.elb.amazonaws.com/](http://udagr-webap-1bm1gglt88f2m-1360665967.us-east-1.elb.amazonaws.com/)
+- Jump Box Server: [http://ec2-107-21-156-55.compute-1.amazonaws.com/](http://ec2-107-21-156-55.compute-1.amazonaws.com/)
 
 #### Display in browser to confirm success
 
